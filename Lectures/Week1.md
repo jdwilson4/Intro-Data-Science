@@ -1,9 +1,10 @@
 # Week 1: Intro to R, RStudio, and the Basics of github
-**By James D. Wilson**
+- By **James D. Wilson**
+
 In this first week, we will cover the basics of R, RStudio, and github. We will start with installation and go through basic commands that will be useful throughout this course.
 
 
-#R and RStudio
+#Part I: R and RStudio
 
 ##Installing RStudio
 
@@ -20,7 +21,7 @@ Researchers and other data scientists can contribute freely to the software, pro
 ###"knitting" a File: it's all for reproducibility
 
 
-#Git and Github
+#Part II: Git and Github
 
 ##What's the point?
 File sharing!
