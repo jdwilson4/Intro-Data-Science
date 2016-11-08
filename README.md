@@ -25,7 +25,7 @@ The focus of this course will be to provide you with the basic techniques availa
 
 ###Weekly Schedule
 | Week | Topic |
-|:---: | :---: |
+|:---: | :---  |
 | 1    | [Introduction - basics of R, RStudio, and github]() |
 | 2    | [Exploratory Data Analysis - data visualization]()  |
 | 3    | [Exploratory Data Analysis - analysis workflow]()   |
@@ -41,3 +41,11 @@ The focus of this course will be to provide you with the basic techniques availa
 |13    | [Modeling - intro to model building]() |
 |14    | [Communication - R markdown and Shiny]() |
 |15    | [Communication - R markdown and Shiny]() |
+
+###Important Dates
+
+- Friday, January 27th - Last day to add the class
+- Friday, February 10th - Census date. Last day to withdraw with tuition reversal
+- Monday, March 13th - Friday, March 17th - Spring break! (**no class**)
+- Monday, April 10th - Last day to withdraw
+- Thursday, May 11th - Last day of class
