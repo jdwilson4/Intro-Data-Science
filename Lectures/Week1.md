@@ -27,6 +27,8 @@ Researchers and other data scientists can contribute freely to the software, pro
 File sharing!
 ##Creating an Account
 
+##Pushing, Pulling, and Committing
+
 ##The 5 Most Useful Commands in github
 
 ##Other Useful Resources for Learning More
