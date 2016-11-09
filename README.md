@@ -26,7 +26,7 @@ The focus of this course will be to provide you with the basic techniques availa
 ###Weekly Schedule
 | Week | Topic |
 |:---: | :---  |
-| 1    | [Introduction - basics of R, RStudio, and github](https://github.com/jdwilson4/Data100_Spring_2017/blob/master/Lectures/Week1.md) |
+| 1    | [Introduction - basics of R, RStudio, and github](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Week1.md) |
 | 2    | [Exploratory Data Analysis - data visualization]()  |
 | 3    | [Exploratory Data Analysis - analysis workflow]()   |
 | 4    | [Exploratory Data Analysis - identifying trends in data]() |
