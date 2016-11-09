@@ -46,14 +46,7 @@ At any time, you can check your list of installed packages by running the follow
 
 ``` installed.packages() ```
 
-Trial
 
-```{r, echo = TRUE, eval = TRUE}
-x = 2
-y = 2
-print(x + y)
-plot(x+y)
-```
 
 ###Basics of Markdown Language
 
