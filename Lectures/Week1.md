@@ -11,11 +11,9 @@ RStudio is publicly available software for data analysis.
 
 ##Installing RStudio
 
-To install RStudio, you need to first download and install the most recent version of R from the CRAN website [here](https://www.r-project.org). 
+To install RStudio, you need to first download and install the most recent version of R from the CRAN website [here](https://www.r-project.org). Follow directions there to download and install the R software for your computer. 
 
-Follow directions there to download and install the R software for your computer. 
-
-Once R is installed, you can now download and install the most recent version of RStudio to your computer. To do this, go to [this website](https://www.rstudio.com/products/RStudio/).
+Once R is installed, you can now download and install the most recent version of RStudio to your computer. To do this, go to [this website](https://www.rstudio.com/products/RStudio/). Note that you can download to your Desktop (which I suggest for this course) or you can use the RStudio Server to utilize RStudio from any computer with a Wifi connection. 
 
 Rstudio provides a *graphical user interface* (GUI) for your use, where you can directly write functions or perform statistical analysis. Alternatively, you can directly call R using BASH scripting via, for example, the *Terminal* on a Mac. In this course, we will use the GUI for all calculations but if you are interested I invite you to look more into BASH scripting. A nice tutorial is provided [here](http://ryanstutorials.net/bash-scripting-tutorial/), and a BASH command cheatsheet is provided [here](https://gist.github.com/LeCoupa/122b12050f5fb267e75f).
 
@@ -26,9 +24,15 @@ Rstudio provides a *graphical user interface* (GUI) for your use, where you can 
 
 Researchers and other data scientists can contribute freely to the software, providing a means to share, develop, and enhance code. Generally, researchers will contribute by adding a new *package* to the existing list of available packages in R.
 
-You can start conducting statistical analyses without downloading or installing any packages, in which case you will be using the available functions in the *base R* environment. 
+You can begin conducting statistical analyses without downloading or installing any packages, in which case you will be using the available functions in the *base R* environment. However, for much of what we'll be doing in this class, we will be relying on modern packages like *ggplot2*, *knitr*, *tidyr*, and *dplyr* for data wrangling, exploration, and visualization. Below we will use our first package in this course, *knitr*. 
 
 ##Using the *knitr* package for file compilation
+
+For our first lesson, we will use the *knitr* package in RStudio, which provides a great way to demonstrate statistical analyses to others, while ensuring reproducible code. For each assignment in this course, I will require you to compile your R scripts using the *knitr* package so that I know that your code works.
+
+To install the *knitr* package, run the following command
+
+``` install.packages("knitr") ```
 
 ###Basics of Markdown Language
 
