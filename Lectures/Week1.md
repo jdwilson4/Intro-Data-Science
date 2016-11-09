@@ -37,7 +37,9 @@ To install the *knitr* package, run the following command
 Once a package has been installed on your version of RStudio, you will never have to install it again. However, each time that you start a new instance of RStudio, you will *have* to load the library to your current instance. You can do this using one of the two following commands:
 
 ```library(knitr)```
+
 or
+
 ```require(knitr) ```
 
 At any time, you can check your list of installed packages by running the following command:
