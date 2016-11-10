@@ -47,7 +47,7 @@ At any time, you can check your list of installed packages by running the follow
 
 ##Using the *knitr* package for file compilation
 
-Now that we have the *knitr* package installed and downloaded for our R session, we can now create a file that can be compiled into an .html or a .pdf presentation file. *knitr* requires the use of the **Markdown** language, which is straightforward, once you know R functionality. To use *knitr*, we first need to open a Markdown file, which can be done as follows:
+Now that we have the *knitr* package installed and downloaded for our R session, we can now create a file that can be compiled into an .html or a .pdf presentation file. *knitr* requires the use of the **Markdown** language, which is straightforward, once you know R functionality. To use *knitr*, we first need to open a Markdown file using the new file button at the top left of your RStudio GUI and clicking **R Markdown...**. In other words, press the following:
 
 ![R Markdown File](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Images/R_Markdown.png)
 
