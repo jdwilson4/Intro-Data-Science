@@ -26,8 +26,6 @@ Researchers and other data scientists can contribute freely to the software, pro
 
 You can begin conducting statistical analyses without downloading or installing any packages, in which case you will be using the available functions in the *base R* environment. However, for much of what we'll be doing in this class, we will be relying on modern packages like *ggplot2*, *knitr*, *tidyr*, and *dplyr* for data wrangling, exploration, and visualization. Below we will use our first package in this course, *knitr*. 
 
-##Using the *knitr* package for file compilation
-
 For our first lesson, we will use the *knitr* package in RStudio, which provides a great way to demonstrate statistical analyses to others, while ensuring reproducible code. For each assignment in this course, I will require you to compile your R scripts using the *knitr* package so that I know that your code works.
 
 To install the *knitr* package, run the following command
@@ -47,8 +45,11 @@ At any time, you can check your list of installed packages by running the follow
 ``` installed.packages() ```
 
 
+##Using the *knitr* package for file compilation
 
-###Basics of Markdown Language
+Now that we have the *knitr* package installed and downloaded for our R session, we can now create a file that can be compiled into an .html or a .pdf presentation file. *knitr* requires the use of the **Markdown** language, which is straightforward, once you know R functionality. To use *knitr*, we first need to open a Markdown file, which can be done as follows:
+
+![R Markdown File](/Users/jdwilson4/Dropbox/Teaching/USF/Intro_Data_Science/Images/R_Markdown.png)
 
 ###"knitting" a File: it's all for reproducibility
 
