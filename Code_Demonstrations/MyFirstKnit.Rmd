@@ -2,7 +2,7 @@
 title: "My First knit Experience"
 author: "James D. Wilson"
 date: "November 9, 2016"
-output: html_document
+output: pdf_document
 ---
 
 This is **my** first knit experience. First, *I* will get R to print out **Hello World,** and I will get R to repeat to me my input command.
