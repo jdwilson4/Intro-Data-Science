@@ -1,4 +1,4 @@
-# Week 1: Intro to R, RStudio, and the Basics of github
+# Week 1: Intro to R, RStudio, and the Basics of Git and GitHub
 
 By **James D. Wilson**
 
@@ -75,7 +75,7 @@ You can do a lot with these simple commands. In fact, any R code can be run in R
 For more information on what you can do with R Markdown, see the R Markdown cheat sheet [here](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf).
  
 
-###"knitting" a File: it's all for reproducibility
+##Example: "knitting" a File: It's all for Reproducibility
 
 An important feature of the *knitr* package is that the file **will not** compile if the R code within the file doesn't work. Thus, once you are able to *knit* a file, the outcome ensures that the R code is in fact reproducible. 
 
