@@ -66,9 +66,9 @@ Before beginning, let's review a few of the most basic commands in R Markdown. T
 - ** word ** : Bolds word 
 - word \n --- : Largest header for word
 - word \n === : 2nd largest header for word
-- ```{r, echo = TRUE, eval = TRUE} x = 2 ```: runs and shows the R code x = 2
-- ```{r, echo = FALSE, eval = TRUE} x = 2 ```: runs the code, but does not print input x = 2
-- ```{r, echo = TRUE, eval = FALSE} x = 2 ```: echoes the input x = 2 but does not run the code
+- `[x3]{r, echo = TRUE, eval = TRUE} x = 2 `[x3]: runs and shows the R code x = 2
+- `[x3]{r, echo = FALSE, eval = TRUE} x = 2 `[x3]: runs the code, but does not print input x = 2
+- `[x3]{r, echo = TRUE, eval = FALSE} x = 2 `[x3]: echoes the input x = 2 but does not run the code
 
 You can do a lot with these simple commands. In fact, any R code can be run in R Markdown simply by setting it off with the three apostrophe marks. 
 
@@ -91,23 +91,23 @@ date: "[today's date]"
 output: html_document
 ---
 
-This is **my** first knit experience. First, *I* will get R to print out **Hello World,** and I will get R to repeat to me my input command.
+This is **my** first knit experience. First, *I* will get R to print out **Hello World,** and I will get R to repeat my input command.
 
-```{r, echo = TRUE, eval = TRUE}
+`[x3]{r, echo = TRUE, eval = TRUE}
 print("Hello World")
-```
+`[x3]
 
 Now, I'll do the same as above except I will tell R **not** to print out my input
-```{r, echo = FALSE, eval = TRUE}
+`[x3]{r, echo = FALSE, eval = TRUE}
 print("Hello World")
-```
+`[x3]
 
 Finally, I will generate 1000 observations from a N(0,1) distribution and print the histogram of the data with 100 bins.
 
-```{r, echo = TRUE, eval = TRUE}
+`[x3]{r, echo = TRUE, eval = TRUE}
 data <- rnorm(n = 1000, mean = 0, sd = 1)
 hist(data, n = 100)
-```
+`[x3]
 
 ```
 
