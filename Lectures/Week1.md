@@ -49,7 +49,7 @@ At any time, you can check your list of installed packages by running the follow
 
 Now that we have the *knitr* package installed and downloaded for our R session, we can now create a file that can be compiled into an .html or a .pdf presentation file. *knitr* requires the use of the **Markdown** language, which is straightforward, once you know R functionality. To use *knitr*, we first need to open a Markdown file, which can be done as follows:
 
-![R Markdown File](/Users/jdwilson4/Dropbox/Teaching/USF/Intro_Data_Science/Images/R_Markdown.png)
+![R Markdown File](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Images/R_Markdown.png)
 
 ###"knitting" a File: it's all for reproducibility
 
