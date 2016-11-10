@@ -1,0 +1,24 @@
+---
+title: "My First knit Experience"
+author: "James D. Wilson"
+date: "November 9, 2016"
+output: html_document
+---
+
+This is **my** first knit experience. First, *I* will get R to print out **Hello World,** and I will get R to repeat to me my input command.
+
+```{r, echo = TRUE, eval = TRUE}
+print("Hello World")
+```
+
+Now, I'll do the same as above except I will tell R **not** to print out my input
+```{r, echo = FALSE, eval = TRUE}
+print("Hello World")
+```
+
+Finally, I will generate 1000 observations from a N(0,1) distribution and print the histogram of the data with 100 bins.
+
+```{r, echo = TRUE, eval = TRUE}
+data <- rnorm(n = 1000, mean = 0, sd = 1)
+hist(data, n = 100)
+```
