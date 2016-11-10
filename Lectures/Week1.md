@@ -60,15 +60,15 @@ Choose **Document** and then choose **HTML** as the Output Format. Note that if 
 The window that opens up will be a basic template, which provides some useful code and a simple tutorial of how to get started. 
 
 ###Basics of R Markdown
-Before beginning, let's review a few of the most basic commands in R Markdown. These include:
+Before beginning, let's review a few of the most basic commands in R Markdown. Note: [x3] below means to repeat the former character 3 times. Important commands include:
 
 - * word * : Italizes word
 - ** word ** : Bolds word 
 - word \n --- : Largest header for word
 - word \n === : 2nd largest header for word
-- `[x3]{r, echo = TRUE, eval = TRUE} x = 2 `[x3]: runs and shows the R code x = 2
-- `[x3]{r, echo = FALSE, eval = TRUE} x = 2 `[x3]: runs the code, but does not print input x = 2
-- `[x3]{r, echo = TRUE, eval = FALSE} x = 2 `[x3]: echoes the input x = 2 but does not run the code
+- ``` `[x3]{r, echo = TRUE, eval = TRUE} x = 2 `[x3] ```: runs and shows the R code x = 2
+- ``` `[x3]{r, echo = FALSE, eval = TRUE} x = 2 `[x3] ```: runs the code, but does not print input x = 2
+- ``` `[x3]{r, echo = TRUE, eval = FALSE} x = 2 `[x3] ```: echoes the input x = 2 but does not run the code
 
 You can do a lot with these simple commands. In fact, any R code can be run in R Markdown simply by setting it off with the three apostrophe marks. 
 
@@ -111,11 +111,11 @@ hist(data, n = 100)
 
 ```
 
-When you are done, you can now *knit* the file to get an .html output. To do this, press the **Knit .html** button as shown below:
+When you are done, you can now *knit* the file to get an .html output. To do this, press the **Knit .pdf** button as shown below:
 
 ![knit](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Images/knit.png)
 
-Once the file has been *knit*, if there are no bugs in your code (which there shouldn't be if you ran the above example) then you will get an .html file automatically saved to the same location of your .Rmd file. Your .html file should look something like [this](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/MyFirstKnit.html). 
+Once the file has been *knit*, if there are no bugs in your code (which there shouldn't be if you ran the above example) then you will get an .html file automatically saved to the same location of your .Rmd file. Your .html file should look something like [this](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/MyFirstKnit.pdf). 
 
 #Part II: Git and Github
 
