@@ -5,24 +5,55 @@ By **James D. Wilson**
 In this first week, we will cover the basics of R and RStudio. We will start with installation and go through basic commands that will be useful throughout this course.
 
 
-#Part I: R and RStudio
+#Installation
 
-RStudio is publicly available software for data analysis. 
-
-##Installing RStudio
-
+##Installing R First
 To install RStudio, you need to first download and install the most recent version of R from the CRAN website [here](https://www.r-project.org). Follow directions there to download and install the R software for your computer. 
 
+##Installing RStudio
 Once R is installed, you can now download and install the most recent version of RStudio to your computer. To do this, go to [this website](https://www.rstudio.com/products/RStudio/). Note that you can download to your Desktop (which I suggest for this course) or you can use the RStudio Server to utilize RStudio from any computer with a wifi connection. 
 
-Rstudio provides a *graphical user interface* (GUI) for your use, where you can directly write functions or perform statistical analysis. Alternatively, you can directly call R using BASH scripting via, for example, the *Terminal* on a Mac. In this course, we will use the GUI for all calculations but if you are interested I invite you to look more into BASH scripting. A nice tutorial is provided [here](http://ryanstutorials.net/bash-scripting-tutorial/), and a BASH command cheat sheet is provided [here](https://gist.github.com/LeCoupa/122b12050f5fb267e75f).
+#The Graphical User Interface
+Rstudio provides a *graphical user interface* (GUI) for your use, where you can directly write functions or perform statistical analysis. When you open RStudio, an application will open that looks like the following.
 
-**Keeping up to date**: Since R and RStudio is open source, contributors can freely add to the software and/or change existing packages. Because of this, it is important to keep your code and your RStudio version up to date. You will need to re-visit these sites and re-install the most recent version.
+![RStudio Console](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Images/rstudio-console.png)
+
+The **Console** is where you type code that you wish to run. All you have to do is type a command, and an output will be provided. This is actually a pretty nice calculator. For example, try the following few commands and press enter between each line:
+
+``` 
+1 + 2
+
+log(10)
+
+log(10, base = 10)
+
+exp(23)
+
+```
+
+Notice that the answer will be automatically put in front of you at the next line of the **Console**. If you type something that is *not* a function in R, or is somehow in error, you will get a line of red that describes the error. For example, try running the following:
+
+```
+lg(2)
+```
+
+R also has an internal help log about every function that is currently available. To call upon that, you can simply put a ? before a valid function. For example, if you were curious about the *log* function we used earlier, you can simply type:
+
+```
+?log
+```
+
+Once you do this, a *documentation* file will appear to the right of the **Console** in the **Output** file. The **Output** block on the GUI will also be where plots appear. We'll explore more of this later. 
+
+If you don't like using this GUI, you can alternatively call R using BASH scripting via, for example, the *Terminal* on a Mac. In this course, we will use the GUI for all calculations but if you are interested I invite you to look more into BASH scripting. A nice tutorial is provided [here](http://ryanstutorials.net/bash-scripting-tutorial/), and a BASH command cheat sheet is provided [here](https://gist.github.com/LeCoupa/122b12050f5fb267e75f).
+
+**Keeping up to date**: Since R and RStudio is open source, contributors can freely add to the software and/or change existing packages. Because of this, it is important to keep your code and your RStudio version up to date. Typically, a new version of R and RStudio will be available about 2 - 3 times per year. You will need to re-visit these sites and re-install the most recent version.
 
 
-##Packages in RStudio
 
-Researchers and other data scientists can contribute freely to the software, providing a means to share, develop, and enhance code. Generally, researchers will contribute by adding a new *package* to the existing list of available packages in R.
+#Packages in RStudio
+
+Researchers and other data scientists can contribute freely to the software, providing a means to share, develop, and enhance code. Generally, researchers will contribute by adding a new *package* to the existing list of available packages in R. An R *package* is a collection of functions, data, and documentation that extends the capabilities of base R.
 
 You can begin conducting statistical analyses without downloading or installing any packages, in which case you will be using the available functions in the *base R* environment. However, for much of what we'll be doing in this class, we will be relying on modern packages like *ggplot2*, *knitr*, *tidyr*, and *dplyr* for data wrangling, exploration, and visualization. Below we will use our first package in this course, *knitr*. 
 
@@ -59,7 +90,7 @@ Choose **Document** and then choose **HTML** as the Output Format. Note that if 
 
 The window that opens up will be a basic template, which provides some useful code and a simple tutorial of how to get started. 
 
-###Basics of R Markdown
+##Basics of R Markdown
 Before beginning, let's review a few of the most basic commands in R Markdown. Note: [x3] below means to repeat the former character 3 times. Important commands include:
 
 - * word * : Italizes word
@@ -118,5 +149,25 @@ When you are done, you can now *knit* the file to get an .html output. To do thi
 Once the file has been *knit*, if there are no bugs in your code (which there shouldn't be if you ran the above example) then you will get an .html file automatically saved to the same location of your .Rmd file. Your .html file should look something like [this](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/MyFirstKnit.pdf). 
 
 
+##Installing *tidyverse* for Data Science
 
-##Other Useful Resources for Learning More
+Most of the functions that are used in the book that we will be using for this course are available in the *tidyverse* R package. This package is a compilation of packages (over 20 of them actually). Install this package by typing the following
+
+```
+install.packages("tidyverse")
+```
+
+Now before any lecture, you can make sure to use ```library(tidyverse)``` to ensure you have the needed packages available for use. 
+
+##Other Useful Resources for Learning More about R
+
+There is an enormous number of resources available for learning the basics of R. In particular, the blog *stackoverflow* is a useful resource for quick questions about R. 
+
+It is important to remember that *Google* is your best friend. The steepest learning curve for R is the sheer vocabulary of possible functions that are available. So Googling is incredibly useful, especially at the beginning of your programming careers. 
+
+You can also go to http://www.r-bloggers.com -- an R blog that is a compilation of over 500 blogs around the world. This is a great resource for reading about more recent and broad applications of R. 
+
+#Assignment
+
+1) Read Chapter 1 of *Doing Data Science* by Cathy O'Neil and Rachel Schutt [here](https://www.safaribooksonline.com/library/view/doing-data-science/9781449363871/ch01.html).
+2) Complete Computational Assignment 1 by **Tuesday, January 31st by 9:00 AM**
