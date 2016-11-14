@@ -7,7 +7,7 @@ In this first week, we will cover the basics of R and RStudio. We will start wit
 
 #Installation
 
-##Installing R First
+##Installing R
 To install RStudio, you need to first download and install the most recent version of R from the CRAN website [here](https://www.r-project.org). Follow directions there to download and install the R software for your computer. 
 
 ##Installing RStudio
@@ -76,7 +76,7 @@ At any time, you can check your list of installed packages by running the follow
 ``` installed.packages() ```
 
 
-##Using the *knitr* package for file compilation
+##Using the *knitr* Package 
 
 Now that we have the *knitr* package installed and downloaded for our R session, we can now create a file that can be compiled into an .html or a .pdf presentation file. *knitr* requires the use of the **Markdown** language, which is straightforward, once you know R functionality. 
 
@@ -169,5 +169,6 @@ You can also go to http://www.r-bloggers.com -- an R blog that is a compilation 
 
 #Assignment
 
-1) Read Chapter 1 of *Doing Data Science* by Cathy O'Neil and Rachel Schutt [here](https://www.safaribooksonline.com/library/view/doing-data-science/9781449363871/ch01.html).
+1) Read Chapter 1 of *Doing Data Science* by Cathy O'Neil and Rachel Schutt entitled "What is Data Science?" [here](https://www.safaribooksonline.com/library/view/doing-data-science/9781449363871/ch01.html).
+
 2) Complete Computational Assignment 1 by **Tuesday, January 31st by 9:00 AM**
