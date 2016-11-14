@@ -161,14 +161,14 @@ Now before any lecture, you can make sure to use ```library(tidyverse)``` to ens
 
 ##Other Useful Resources for Learning More about R
 
-There is an enormous number of resources available for learning the basics of R. In particular, the blog *stackoverflow* is a useful resource for quick questions about R. 
+There is an enormous number of resources available for learning the basics of R. In particular, the blog http://stackoverflow.com is an incredibly useful resource for quick questions about R and other programming languages. 
 
 It is important to remember that *Google* is your best friend. The steepest learning curve for R is the sheer vocabulary of possible functions that are available. So Googling is incredibly useful, especially at the beginning of your programming careers. 
 
 You can also go to http://www.r-bloggers.com -- an R blog that is a compilation of over 500 blogs around the world. This is a great resource for reading about more recent and broad applications of R. 
 
-#Assignment
+#Assignments
 
-1) Read Chapter 1 of *Doing Data Science* by Cathy O'Neil and Rachel Schutt entitled "What is Data Science?" [here](https://www.safaribooksonline.com/library/view/doing-data-science/9781449363871/ch01.html).
+1) Read Chapter 1 of *Doing Data Science* by Cathy O'Neil and Rachel Schutt entitled "What is Data Science?" [here](https://www.safaribooksonline.com/library/view/doing-data-science/9781449363871/ch01.html)
 
-2) Complete Computational Assignment 1 by **Tuesday, January 31st by 9:00 AM**
+2) Complete Computational Assignment 1 by **Tuesday, January 31st at 9:00 AM**
