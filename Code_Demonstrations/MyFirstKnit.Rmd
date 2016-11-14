@@ -5,7 +5,7 @@ date: "November 9, 2016"
 output: pdf_document
 ---
 
-This is **my** first knit experience. First, *I* will get R to print out **Hello World,** and I will get R to repeat to me my input command.
+This is **my** first knit experience. First, *I* will get R to print out **Hello World,** and tell R to repeat my input command.
 
 ```{r, echo = TRUE, eval = TRUE}
 print("Hello World")

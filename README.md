@@ -12,6 +12,16 @@
 
 **Syllabus**: [Link](https://github.com/jdwilson4/Data100_Spring_2017/blob/master/Syllabus.pdf)
 
+##Course Learning Outcomes
+
+By the end of this course, you will be able to
+
+- Proficiently wrangle, manipulate, and explore data using the R programming language
+- Utilize contemporary R libraries including *ggplot2*, *tibble*, *tidyr*, *dplyr*, *knitr*, and *stringr*
+- Visualize, present, and communicate trends in a variety of data types
+- Communicate results using R markdown and R Shiny graphical user interfaces
+- Formulate data-driven hypotheses using exploratory data analysis and introductory model building techniques
+
 ##A Few Important Tid bits
 
 ###Assessment
@@ -26,7 +36,7 @@ The focus of this course will be to provide you with the basic techniques availa
 ###Weekly Schedule
 | Week | Topic |
 |:---: | :---  |
-| 1    | [Introduction - basics of R, RStudio, and github](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Week1.md) |
+| 1    | [Introduction - basics of R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Week1.md) |
 | 2    | [Exploratory Data Analysis - data visualization]()  |
 | 3    | [Exploratory Data Analysis - analysis workflow]()   |
 | 4    | [Exploratory Data Analysis - identifying trends in data]() |

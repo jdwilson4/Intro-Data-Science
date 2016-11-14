@@ -1,8 +1,8 @@
-# Week 1: Intro to R, RStudio, and the Basics of Git and GitHub
+# Week 1: Intro to R and RStudio
 
 By **James D. Wilson**
 
-In this first week, we will cover the basics of R, RStudio, and github. We will start with installation and go through basic commands that will be useful throughout this course.
+In this first week, we will cover the basics of R and RStudio. We will start with installation and go through basic commands that will be useful throughout this course.
 
 
 #Part I: R and RStudio
@@ -91,7 +91,7 @@ date: "[today's date]"
 output: html_document
 ---
 
-This is **my** first knit experience. First, *I* will get R to print out **Hello World,** and I will get R to repeat my input command.
+This is **my** first knit experience. First, *I* will get R to print out **Hello World,** and I will tell R to repeat my input command.
 
 `[x3]{r, echo = TRUE, eval = TRUE}
 print("Hello World")
@@ -117,14 +117,6 @@ When you are done, you can now *knit* the file to get an .html output. To do thi
 
 Once the file has been *knit*, if there are no bugs in your code (which there shouldn't be if you ran the above example) then you will get an .html file automatically saved to the same location of your .Rmd file. Your .html file should look something like [this](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/MyFirstKnit.pdf). 
 
-#Part II: Git and Github
 
-##What's the point?
-File sharing!
-##Creating an Account
-
-##Pushing, Pulling, and Committing
-
-##The 5 Most Useful Commands in github
 
 ##Other Useful Resources for Learning More
