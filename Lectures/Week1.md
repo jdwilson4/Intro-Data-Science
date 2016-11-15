@@ -171,4 +171,4 @@ You can also go to http://www.r-bloggers.com -- an R blog that is a compilation 
 
 1) Read Chapter 1 of *Doing Data Science* by Cathy O'Neil and Rachel Schutt entitled "What is Data Science?" [here](https://www.safaribooksonline.com/library/view/doing-data-science/9781449363871/ch01.html)
 
-2) Complete Computational Assignment 1 by **Tuesday, January 31st at 9:00 AM**
+2) Complete [Computational Assignment 1](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment1.pdf) by **Tuesday, January 31st at 9:00 AM**
