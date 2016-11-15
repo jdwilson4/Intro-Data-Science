@@ -1,6 +1,6 @@
 # Week 1: Intro to R and RStudio
 
-By **James D. Wilson**
+By **James D. Wilson** at the University of San Francisco (http://jdwilson-statistics.com)
 
 In this first week, we will cover the basics of R and RStudio. We will start with installation and go through basic commands that will be useful throughout this course.
 
