@@ -31,7 +31,7 @@ The focus of this course will be to provide you with the basic techniques availa
 - **Attendence** (10%): You will lose 1% of this grade for every course you miss.
 - **Quizzes** (20%): There will be roughly one quiz per week that will contain one to two questions about material covered in class up to that point. These are meant to check your progress on key ideas covered in class.
 - **Assignments** (50%): Every Thursday, you will be assigned a computational assignment to be completed using RStudio and the package *knitr* that will be turned by the following class on Tuesday. You will be working in groups to complete these assignments in class so that I can be there to help with questions.
-- **Final Exam** (20%): The final exam is a cumulative exam that will assess the concepts learned throughout this course. This will be an in-class written exam given on the scheduled final exam data provided by USF policies.
+- **Final Exam** (20%): The final exam is a cumulative exam that will assess the concepts learned throughout this course. This will be an in-class written exam given on the scheduled final exam date provided by USF.
 
 ###Weekly Schedule
 | Week | Topic |
