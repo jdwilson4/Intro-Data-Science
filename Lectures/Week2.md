@@ -6,7 +6,7 @@ This week, we will begin by learning about one of the most central components of
 
 ![explore_pic](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Images/data-science-explore.png)
 
-[John Tukey](https://en.wikipedia.org/wiki/John_Tukey), a famous statistician is often considered one of the ``fathers`` of exploratory data analysis, was the first to write a book about exploratory data analysis and its use in statistics (in 1977!). His belief about the importance of EDA can be observed in one of his famous quotes:
+[John Tukey](https://en.wikipedia.org/wiki/John_Tukey), a famous statistician is often considered one of the "fathers" of exploratory data analysis, was the first to write a book about exploratory data analysis and its use in statistics (in 1977!). His belief about the importance of EDA can be observed in one of his famous quotes:
 
 > Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise. 
 
