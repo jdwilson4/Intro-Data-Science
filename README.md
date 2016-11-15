@@ -37,7 +37,7 @@ The focus of this course will be to provide you with the basic techniques availa
 | Week | Topic |
 |:---: | :---  |
 | 1    | [Introduction - basics of R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Week1.md) |
-| 2    | [Exploratory Data Analysis - data visualization]()  |
+| 2    | [Exploratory Data Analysis - data visualization](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Week2.md)|
 | 3    | [Exploratory Data Analysis - analysis workflow]()   |
 | 4    | [Exploratory Data Analysis - identifying trends in data]() |
 | 5    | [Data Wrangling - data frames, tibbles, and subsetting data]() |

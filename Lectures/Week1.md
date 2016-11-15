@@ -142,7 +142,7 @@ hist(data, n = 100)
 
 ```
 
-When you are done, you can now *knit* the file to get an .html output. To do this, press the **Knit .pdf** button as shown below:
+When you are done, you can now *knit* the file to get an .html output. To do this, press the **Knit PDF** button as shown below:
 
 ![knit](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Images/knit.png)
 
