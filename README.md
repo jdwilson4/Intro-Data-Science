@@ -1,10 +1,10 @@
-# MATH 395: Intro to Data Science with R
+# BSDS 100: Intro to Data Science with R
 
 ##James D. Wilson
 
 **Email**: jdwilson4@usfca.edu
 
-**Class Time**: TR, 9:55 - 11:40 AM
+**Class Time**: TR, 9:55 - 11:40 AM in Cowell 214
 
 **Office Hours**: T 12:30 - 1:30 PM, R 1:30 - 2:30 PM in Harney 203B
 
@@ -36,8 +36,8 @@ The focus of this course will be to provide you with the basic techniques availa
 ###Weekly Schedule
 | Week | Topic |
 |:---: | :---  |
-| 1    | [Introduction - basics of R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Week1.md) |
-| 2    | [Exploratory Data Analysis - data visualization](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Week2.md)|
+| 1    | [Introduction - History of Data Science and R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) |
+| 2    | [Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20RMarkdown.pdf)|
 | 3    | [Exploratory Data Analysis - analysis workflow]()   |
 | 4    | [Exploratory Data Analysis - identifying trends in data]() |
 | 5    | [Data Wrangling - data frames, tibbles, and subsetting data]() |
