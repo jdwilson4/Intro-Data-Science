@@ -33,24 +33,24 @@ The focus of this course will be to provide you with the basic techniques availa
 - **Assignments** (50%): Every Thursday, you will be assigned a computational assignment to be completed using RStudio and the package *knitr* that will be turned by the following class on Tuesday. You will be working in groups to complete these assignments in class so that I can be there to help with questions.
 - **Final Exam** (20%): The final exam is a cumulative exam that will assess the concepts learned throughout this course. This will be an in-class written exam given on the scheduled final exam date provided by USF.
 
-###Weekly Schedule
-| Week | Topic |
+###Schedule
+| Lecture | Topic |
 |:---: | :---  |
-| 1    | [Introduction - History of Data Science and R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) |
-| 2    | [Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20RMarkdown.pdf)|
-| 3    | [Exploratory Data Analysis - analysis workflow]()   |
-| 4    | [Exploratory Data Analysis - identifying trends in data]() |
-| 5    | [Data Wrangling - data frames, tibbles, and subsetting data]() |
-| 6    | [Data Wrangling - input / output and tidying data]() |
-| 7    | [Data Wrangling - relational data]() |
-| 8    | [Data Wrangling - manipulating and analyzing strings]() |
-| 9    | [Data Wrangling - factors, dates, and times]() |
-|10    | [Programming - functions and pipes]() |
-|11    | [Programming - vectors and iterative programming]() |
-|12    | [Modeling - model basics and linear regression]() |
-|13    | [Modeling - intro to model building]() |
-|14    | [Communication - R markdown and Shiny]() |
-|15    | [Communication - R markdown and Shiny]() |
+| 1    | [Introduction - History of Data Science](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) |
+| 2    | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20RMarkdown.pdf)|
+| 3    | [Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   |
+| 4    | [Exploratory Data Analysis - identifying trends in data] |
+| 5    | [Data Wrangling - data frames, tibbles, and subsetting data] |
+| 6    | [Data Wrangling - input / output and tidying data] |
+| 7    | [Data Wrangling - relational data] |
+| 8    | [Data Wrangling - manipulating and analyzing strings] |
+| 9    | [Data Wrangling - factors, dates, and times] |
+|10    | [Programming - functions and pipes] |
+|11    | [Programming - vectors and iterative programming] |
+|12    | [Modeling - model basics and linear regression] |
+|13    | [Modeling - intro to model building] |
+|14    | [Communication - R markdown and Shiny] |
+|15    | [Communication - R markdown and Shiny] |
 
 ###Important Dates
 
