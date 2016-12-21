@@ -37,7 +37,7 @@ The focus of this course will be to provide you with the basic techniques availa
 | Lecture | Topic |
 |:---: | :---  |
 | 1    | [Introduction - History of Data Science](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) |
-| 2    | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20RMarkdown.pdf)|
+| 2    | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20R%20and%20RStudio.pdf)|
 | 3    | [R Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   |
 | 4    | [Data Structures I - Vectors and Factors](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) |
 | 5    | [Data Structures II - Lists, Matrices, and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) |
