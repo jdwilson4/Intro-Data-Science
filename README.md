@@ -41,6 +41,7 @@ The focus of this course will be to provide you with the basic techniques availa
 | 3    | [Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   |
 | 4    | [Data Structures I - Vectors](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) |
 | 5    | [Data Structures II - Matrices, Arrays, and Data Frames] |
+
 <!-- | 6    | [Data Wrangling - input / output and tidying data] |
 | 7    | [Data Wrangling - relational data] |
 | 8    | [Data Wrangling - manipulating and analyzing strings] |
