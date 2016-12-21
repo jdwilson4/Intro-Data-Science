@@ -30,7 +30,7 @@ The focus of this course will be to provide you with the basic techniques availa
 
 - **Attendence** (10%): You will lose 1% of this grade for every course you miss.
 - **Quizzes** (20%): There will be roughly one quiz per week that will contain one to two questions about material covered in class up to that point. These are meant to check your progress on key ideas covered in class.
-- **Assignments** (50%): Every Thursday, you will be assigned a computational assignment to be completed using RStudio and the package *knitr* that will be turned by the following class on Tuesday. You will be working in groups to complete these assignments in class so that I can be there to help with questions.
+- **Assignments** (50%): You will be assigned a computational assignment to be completed using RStudio and the package *knitr* regularly throughout class. 
 - **Final Exam** (20%): The final exam is a cumulative exam that will assess the concepts learned throughout this course.
 
 ###Schedule
@@ -38,9 +38,9 @@ The focus of this course will be to provide you with the basic techniques availa
 |:---: | :---  |
 | 1    | [Introduction - History of Data Science](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) |
 | 2    | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20RMarkdown.pdf)|
-| 3    | [Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   |
-| 4    | [Data Structures I - Vectors](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) |
-| 5    | [Data Structures II - Matrices, Arrays, and Data Frames] |
+| 3    | [R Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   |
+| 4    | [Data Structures I - Vectors and Factors](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) |
+| 5    | [Data Structures II - Lists, Matrices, and Data Frames] |
 
 <!-- | 6    | [Data Wrangling - input / output and tidying data] |
 | 7    | [Data Wrangling - relational data] |
