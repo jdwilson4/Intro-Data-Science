@@ -10,7 +10,7 @@
 
 **Book**: [R for Data Science](http://r4ds.had.co.nz/index.html) by Hadley Wickham and Garret Grolemund
 
-**Syllabus**: [Link](https://github.com/jdwilson4/Data100_Spring_2017/blob/master/Syllabus.pdf)
+**Syllabus**: [Link](https://github.com/jdwilson4/Data100_Spring_2017/blob/master/Spring_2017.pdf)
 
 ##Course Learning Outcomes
 
@@ -39,9 +39,9 @@ The focus of this course will be to provide you with the basic techniques availa
 | 1    | [Introduction - History of Data Science](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) |
 | 2    | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20RMarkdown.pdf)|
 | 3    | [Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   |
-| 4    | [Data Structures I - Vectors] |
+| 4    | [Data Structures I - Vectors](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) |
 | 5    | [Data Structures II - Matrices, Arrays, and Data Frames] |
-| 6    | [Data Wrangling - input / output and tidying data] |
+<!-- | 6    | [Data Wrangling - input / output and tidying data] |
 | 7    | [Data Wrangling - relational data] |
 | 8    | [Data Wrangling - manipulating and analyzing strings] |
 | 9    | [Data Wrangling - factors, dates, and times] |
@@ -50,7 +50,7 @@ The focus of this course will be to provide you with the basic techniques availa
 |12    | [Modeling - model basics and linear regression] |
 |13    | [Modeling - intro to model building] |
 |14    | [Communication - R markdown and Shiny] |
-|15    | [Communication - R markdown and Shiny] |
+|15    | [Communication - R markdown and Shiny] | -->
 
 ###Important Dates
 
