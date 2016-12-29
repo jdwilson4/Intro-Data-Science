@@ -19,7 +19,7 @@ By the end of this course, you will be able to
 - Proficiently wrangle, manipulate, and explore data using the R programming language
 - Utilize contemporary R libraries including *ggplot2*, *tibble*, *tidyr*, *dplyr*, *knitr*, and *stringr*
 - Visualize, present, and communicate trends in a variety of data types
-- Communicate results using R markdown and R Shiny graphical user interfaces
+- Communicate results using R markdown
 - Formulate data-driven hypotheses using exploratory data analysis and introductory model building techniques
 
 ##A Few Important Tid bits
@@ -39,19 +39,19 @@ The focus of this course will be to provide you with the basic techniques availa
 | 1    | [Introduction - History of Data Science](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) |
 | 2    | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20R%20and%20RStudio.pdf)|
 | 3    | [R Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   |
-| 4    | [Data Structures I - Vectors and Factors](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) |
-| 5    | [Data Structures II - Lists, Matrices, and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) |
-| 6    | [Data Input and Output] |
-
-<!-- | 7    | [Data Wrangling - relational data] |
-| 8    | [Data Wrangling - manipulating and analyzing strings] |
-| 9    | [Data Wrangling - factors, dates, and times] |
-|10    | [Programming - functions and pipes] |
-|11    | [Programming - vectors and iterative programming] |
-|12    | [Modeling - model basics and linear regression] |
-|13    | [Modeling - intro to model building] |
-|14    | [Communication - R markdown and Shiny] |
-|15    | [Communication - R markdown and Shiny] | -->
+| 4    | [Data Structures I - Vectors, Matrices, and Arrays](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) |
+| 5    | [Data Structures II - Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) |
+| 6    | [Data Structures III - Tibbles] |
+| 7    | [Factors, Strings, and Times] |
+| 8    | [Data Input and Output] |
+| 9    | [Data Wrangling I - dplyr and manipulating data] |
+|10    | [Data Wrangling II - tidyr, set operations, and subsetting] |
+|11    | [Data Visualization I - plotting in base R] |
+|12    | [Data Visualization II - ggplot2] |
+|13    | [Functional Programming I - functions, loops, and pipes] |
+|14    | [Functional Programming II - replicate, apply, and seeds] |
+|15    | [Model Building] | 
+|16    | [Text Mining] | 
 
 ###Important Dates
 
