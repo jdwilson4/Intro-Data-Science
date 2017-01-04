@@ -31,6 +31,7 @@ The focus of this course will be to provide you with the basic techniques availa
 - **Attendence** (20%): You will lose 2% of this grade for every course you miss.
 - **Assignments** (50%): You will be assigned a computational assignment to be completed using RStudio and the package *knitr* regularly throughout class. 
 - **Final Project** (30%): The final project will be a computational case study that brings together the techniques learned throughout the semester. The description for this project will be provided towards the mid point of the semester.
+- **Extra Credit** (+5%): Create a *well-organized* database of *all* R functions that you use throughout the semester. These include those mentioned in lectures, those introduced in homework, etc. Along with each function, give a brief description that details the use of the function. Also, organize these functions into categories according to their use.
 
 ###Schedule
 | Lecture | Topic | Assignment | Due Date |
@@ -42,7 +43,7 @@ The focus of this course will be to provide you with the basic techniques availa
 | 5    | [Data Structures II - Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | [CA 5](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment5.pdf)| |
 | 6    | [Data Structures III - Tibbles] | | |
 | 7    | [Factors, Strings, and Times] | | |
-| 8    | [Data Input and Output] | | |
+| 8    | [Input and Output] | | |
 | 9    | [Data Wrangling I - dplyr and manipulating data] | | |
 |10    | [Data Wrangling II - tidyr, set operations, and subsetting] | | |
 |11    | [Data Visualization I - plotting in base R] | | |
