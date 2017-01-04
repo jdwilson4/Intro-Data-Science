@@ -43,7 +43,7 @@ The focus of this course will be to provide you with the basic techniques availa
 | 5    | [Data Structures II - Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | [CA 5](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment5.pdf)| |
 | 6    | [Data Structures III - Tibbles] | | |
 | 7    | [Factors, Strings, and Times] | | |
-| 8    | [Input and Output] | | |
+| 8    | [Input and Output](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%208%20Input%20and%20Output.pdf) | | |
 | 9    | [Data Wrangling I - dplyr and manipulating data] | | |
 |10    | [Data Wrangling II - tidyr, set operations, and subsetting] | | |
 |11    | [Data Visualization I - plotting in base R] | | |
