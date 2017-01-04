@@ -28,30 +28,29 @@ By the end of this course, you will be able to
 
 The focus of this course will be to provide you with the basic techniques available for making informed, data-driven decisions using the R programming language. This is *not* a statistics course, but will provide you the intuition to make hypotheses about complex questions through visualization, wrangling, manipulation, and exploration of data. The course will be graded based on the following components:
 
-- **Attendence** (10%): You will lose 1% of this grade for every course you miss.
-- **Quizzes** (20%): There will be roughly one quiz per week that will contain one to two questions about material covered in class up to that point. These are meant to check your progress on key ideas covered in class.
+- **Attendence** (20%): You will lose 2% of this grade for every course you miss.
 - **Assignments** (50%): You will be assigned a computational assignment to be completed using RStudio and the package *knitr* regularly throughout class. 
-- **Final Exam** (20%): The final exam is a cumulative exam that will assess the concepts learned throughout this course.
+- **Final Project** (30%): The final project will be a computational case study that brings together the techniques learned throughout the semester. The description for this project will be provided towards the mid point of the semester.
 
 ###Schedule
-| Lecture | Topic |
-|:---: | :---  |
-| 1    | [Introduction - History of Data Science](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) |
-| 2    | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20R%20and%20RStudio.pdf)|
-| 3    | [R Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   |
-| 4    | [Data Structures I - Vectors, Matrices, and Arrays](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) |
-| 5    | [Data Structures II - Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) |
-| 6    | [Data Structures III - Tibbles] |
-| 7    | [Factors, Strings, and Times] |
-| 8    | [Data Input and Output] |
-| 9    | [Data Wrangling I - dplyr and manipulating data] |
-|10    | [Data Wrangling II - tidyr, set operations, and subsetting] |
-|11    | [Data Visualization I - plotting in base R] |
-|12    | [Data Visualization II - ggplot2] |
-|13    | [Functional Programming I - functions, loops, and pipes] |
-|14    | [Functional Programming II - replicate, apply, and seeds] |
-|15    | [Model Building] | 
-|16    | [Text Mining] | 
+| Lecture | Topic | Assignment | Due Date |
+|:---: | :---:  | :---:  | :---  |
+| 1    | [Introduction - History of Data Science](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) | | |
+| 2    | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20R%20and%20RStudio.pdf)| | |
+| 3    | [R Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   | | |
+| 4    | [Data Structures I - Vectors, Matrices, and Arrays](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) | | |
+| 5    | [Data Structures II - Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | | |
+| 6    | [Data Structures III - Tibbles] | | |
+| 7    | [Factors, Strings, and Times] | | |
+| 8    | [Data Input and Output] | | |
+| 9    | [Data Wrangling I - dplyr and manipulating data] | | |
+|10    | [Data Wrangling II - tidyr, set operations, and subsetting] | | |
+|11    | [Data Visualization I - plotting in base R] | | |
+|12    | [Data Visualization II - ggplot2] | | |
+|13    | [Functional Programming I - functions, loops, and pipes] | | |
+|14    | [Functional Programming II - replicate, apply, and seeds] | | |
+|15    | [Model Building] | | |
+|16    | [Text Mining] | | |
 
 ###Important Dates
 
