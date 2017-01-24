@@ -40,7 +40,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 | Lecture | Topic | Assignment | Due Date |
 |:---: | :---  | :---:  | :---:  |
 | 1    | [Introduction - History of Data Science](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) | [CA 1](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment1.pdf) | Thursday, 1/26|
-| 2    | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20R%20and%20RStudio.pdf)| [CA 2](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment2.pdf) | |
+| 2    | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20R%20and%20RStudio.pdf)| [CA 2](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment2.pdf) | Tuesday, 1/31|
 | 3    | [R Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   | [CA 3](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment3.pdf)| |
 | 4    | [Data Structures I - Vectors, Matrices, and Arrays](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) | [CA 4](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment4.pdf)| |
 | 5    | [Data Structures II - Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | [CA 5](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment5.pdf)| |
