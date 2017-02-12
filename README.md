@@ -45,7 +45,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 | 4    | [Data Structures I - Vectors, Matrices, and Arrays](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) | [CA 4](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment4.pdf)| Thursday, 2/9|
 | 5    | [Data Structures II - Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | [CA 5](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment5.pdf)| Tuesday, 2/14 |
 | 6    | [Input and Output](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%206%20Input%20and%20Output.pdf) | [CA 6](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment6.pdf) | |
-<!--| 7    | [Factors, Strings, and Times] | | |
+| 7    | [Factors, Strings, and Times] | | |
 | 8    | [Data Structures III - Tibbles] | | |
 | 9    | [Data Wrangling I - dplyr and manipulating data] | | |
 |10    | [Data Wrangling II - tidyr, set operations, and subsetting] | | |
@@ -54,7 +54,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 |13    | [Functional Programming I - functions, loops, and pipes] | | |
 |14    | [Functional Programming II - replicate, apply, and seeds] | | |
 |15    | [Model Building] | | |
-|16    | [Text Mining] | | | -->
+|16    | [Text Mining] | | | 
 
 ###Important Dates
 
