@@ -58,8 +58,9 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 
 
 ###In-Class Case Studies
-| Case Study | Date |
-|I: Beer Review Analysis | Thursday, 2/16  | 
+| Case Study | Data | Date |
+|:---: | :---  | :---:  |
+|I: Beer Review Analysis | beerdata.RData | Thursday, 2/16 | 
 
 
 ###Important Dates
