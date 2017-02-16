@@ -8,9 +8,9 @@ In the spirit of San Francisco beer week, we will have our first case study be a
 
 The data contains reviews from BeerAdvocate.com for many beers. It includes information such as the ABV, brewery, date of review, location of origin, and style of beer. Get into groups of 5 and answer the following questions:
 
-1) How many different beers are reviewed in this data set? Do you recognize any of them?
+1) How many different beers are reviewed in this data set? Do you recognize any of them? (Hint: the *unique* function may be useful here.)
 
-2) When was the first and last date of reviews here?
+2) When was the first and last date of reviews here? (Hint: *date* is a new type of class. It is convenient because it has a natural ordering (e.g., Jan, 2011 is less than Jan, 2012). Thus, mathematical functions can be directly applied to *date* classes.)
 
 3) Which beers in this data set were reviewed in California?
 
@@ -18,7 +18,7 @@ The data contains reviews from BeerAdvocate.com for many beers. It includes info
 
 5) Alcohol Content
 
-a) What style of beer has the highest alcohol content? (i.e. ABV?) 
+a) What style of beer has the highest alcohol content? (i.e. ABV?). (Hint: if you want to use an average, applying the *aggregate* function will be useful here.)
 
 b) Which beer has the highest alcohol content? 
 
