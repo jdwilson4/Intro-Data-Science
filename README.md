@@ -56,6 +56,12 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 |15    | [Model Building] | | |
 |16    | [Text Mining] | | | 
 
+
+###In-Class Case Studies
+| Case Study | Date |
+|I: Beer Review Analysis | Thursday, 2/16  | 
+
+
 ###Important Dates
 
 - Friday, January 27th - Last day to add the class
