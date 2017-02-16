@@ -2,7 +2,7 @@
 title: "Beer Analysis"
 author: "James D. Wilson"
 date: "February 15, 2017"
-output: html_document
+output: pdf_document
 ---
 In the spirit of San Francisco beer week, we will have our first case study be about beer! The data file that we will investigate is located on the GitHub course site. Load it and let's dig into the data.
 
@@ -12,7 +12,7 @@ The data contains reviews from BeerAdvocate.com for many beers. It includes info
 
 2) When was the first and last date of reviews here?
 
-3) Which beers in this data set are from California?
+3) Which beers in this data set were reviewed in California?
 
 4) What is the highest rated beer in the data set? (Think about how you define "highest" in this case). What is the lowest rated beer?
 
@@ -28,7 +28,7 @@ d) Which beer has the lowest alcohol content?
 
 6) Of beers with ABV less than 5%, what is the average, maximum, and minimum rating? Of beers with ABV higher than 5%, what is the average, maximum, and minimum rating? Based on your findings, do you conclude that beers with higher alcohol content are rated higher? 
 
-7) How many IPAs are reviewed in this data set? (Note, this includes many different styles including for instance "American Double" and "American Indian Pale Ale.")
+7) How many IPAs are reviewed in this data set? (Note, this includes many different styles including for instance "American Double" and "American India Pale Ale.")
 
 8) Identify which beers are a sort of "imperial" style. This is often used to describe a style of beer. Based on features that are common to the "imperial" beers, what would you say this descriptor suggests about a beer?
 
