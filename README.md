@@ -19,7 +19,7 @@ By the end of this course, you will be able to
 - Proficiently wrangle, manipulate, and explore data using the R programming language
 - Utilize contemporary R libraries including *ggplot2*, *tibble*, *tidyr*, *dplyr*, *knitr*, and *stringr*
 - Visualize, present, and communicate trends in a variety of data types
-- Communicate results using R markdown
+- Communicate results using R markdown and R Shiny
 - Formulate data-driven hypotheses using exploratory data analysis and introductory model building techniques
 
 ##Course Overview
