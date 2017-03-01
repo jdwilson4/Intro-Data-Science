@@ -28,12 +28,10 @@ d) Which beer has the lowest alcohol content?
 
 6) Of beers with ABV less than 5%, what is the average, maximum, and minimum rating? Of beers with ABV higher than 5%, what is the average, maximum, and minimum rating? Based on your findings, do you conclude that beers with higher alcohol content are rated higher? 
 
-7) How many IPAs are reviewed in this data set? (Note, this includes many different styles including for instance "American Double" and "American India Pale Ale.")
+7) Identify which beers are a sort of "imperial" style. This is often used to describe a style of beer. Based on features that are common to the "imperial" beers, what would you say this descriptor suggests about a beer?
 
-8) Identify which beers are a sort of "imperial" style. This is often used to describe a style of beer. Based on features that are common to the "imperial" beers, what would you say this descriptor suggests about a beer?
+8) [Open-ended] Devise two (or more) different ways to measure similarity between beers from this study. Then, separate these beers into at least 5 collections of "similar" beers. Discuss what you find. You should play around with this to see if you find any patterns. This is similar to the problem of clustering in machine learning.
 
-9) [Open-ended] Devise two (or more) different ways to measure similarity between beers from this study. Then, separate these beers into at least 5 collections of "similar" beers. Discuss what you find. You should play around with this to see if you find any patterns. This is similar to the problem of clustering in machine learning.
-
-10) [Open-ended] Two really well-known beers from the Bay area are "Pliny the Younger" and "Pliny the Elder", each from Russian River Brewing (in Marin county). First, summarize these two beers based on the reviews given. Next, come up with a way to compare these two beers so that you can settle the dispute of which beer is better. (PS: there are statistical ways of doing this, feel free to do this if you know how.)
+9) [Open-ended] Two really well-known beers from the Bay area are "Pliny the Younger" and "Pliny the Elder", each from Russian River Brewing (in Marin county). First, summarize these two beers based on the reviews given. Next, come up with a way to compare these two beers so that you can settle the dispute of which beer is better. (PS: there are statistical ways of doing this, feel free to do this if you know how.)
 
 
