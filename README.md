@@ -53,7 +53,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 | 11  | Text Analysis |  CA 12 |  |
 | 12  | Model Building|  CA 13 |  |
 
-###In-Class Case Studies
+###Case Studies
 | Case Study | Data | Date |
 |:---: | :---  | :---:  |
 |[I: Beer Review Analysis](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/Beer_Analysis.pdf) | [beerdata.RData](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/beer.data.RData) | Thursday, 2/16| 
