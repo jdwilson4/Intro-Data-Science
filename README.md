@@ -1,6 +1,6 @@
 # BSDS 100: Intro to Data Science with R
 
-##James D. Wilson
+## James D. Wilson
 
 **Email**: jdwilson4@usfca.edu
 
@@ -12,7 +12,7 @@
 
 **Syllabus**: [Link](https://github.com/jdwilson4/Data100_Spring_2017/blob/master/Spring_2017.pdf)
 
-##Course Learning Outcomes
+## Course Learning Outcomes
 
 By the end of this course, you will be able to
 
@@ -22,9 +22,9 @@ By the end of this course, you will be able to
 - Communicate results using R markdown and R Shiny
 - Formulate data-driven hypotheses using exploratory data analysis and introductory model building techniques
 
-##Course Overview
+## Course Overview
 
-###Assessment
+### Assessment
 
 The focus of this course will be to provide you with the basic techniques available for making informed, data-driven decisions using the R programming language. This is *not* a statistics course, but will provide you the intuition to make hypotheses about complex questions through visualization, wrangling, manipulation, and exploration of data. The course will be graded based on the following components:
 
@@ -33,7 +33,7 @@ The focus of this course will be to provide you with the basic techniques availa
 - **Final Project** (30%): The final project will be a computational case study that brings together the techniques learned throughout the semester. The description for this project will be provided towards the mid point of the semester.
 - **Extra Credit** (+5%): Create a *well-organized* database of *all* R functions that you use throughout the semester. These include those mentioned in lectures, those introduced in homework, etc. Along with each function, give a brief description that details the use of the function. Also, organize these functions into categories according to their use.
 
-###Schedule
+### Schedule
 
 Overall, this course will be split into two main parts: (1) learning the basics of how to code in R and (2) performing data analysis on real case studies and examples using data science techniques in R.
 
@@ -53,7 +53,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 | 11  | Text Analysis |  CA 12 |  |
 | 12  | Model Building|  CA 13 |  |
 
-###Case Studies
+### Case Studies
 | Case Study | Data | Date |
 |:---: | :---  | :---:  |
 |[I: Beer Review Analysis](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/Beer_Analysis.pdf) | [beerdata.RData](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/beer.data.RData) | Thursday, 2/16| 
@@ -63,7 +63,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 
 
 
-###Important Dates
+### Important Dates
 
 - Friday, January 27th - Last day to add the class
 - Friday, February 10th - Census date. Last day to withdraw with tuition reversal
