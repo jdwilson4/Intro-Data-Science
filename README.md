@@ -47,8 +47,8 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 | 6    | [Input and Output](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%206%20Input%20and%20Output.pdf) | [CA 6](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment6.pdf) | Tuesday, 2/21|
 | 7   | [Plotting in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | [CA 7](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment7.pdf)| Tuesday, 2/28 |
 | -   |  -  |  [CA 8](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment8.pdf) | Tuesday, 3/7 |
-| 8   | Tidying Data|  CA 9| | 
-| 9   | Functional Programming in R|  CA 10| | 
+| 8   | Functional Programming in R|  CA 9| | 
+| 9   | Tidying Data|  CA 10| | 
 | 10  | Iterative Programming in R |  CA 11| |
 | 11  | Text Analysis |  CA 12 |  |
 | 12  | Model Building|  CA 13 |  |
