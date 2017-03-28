@@ -124,3 +124,86 @@ myFunc_03 <- function(){
 
 myFunc_03()
 myFunc_04
+
+###3/28/17###
+?plot
+
+#Default arguments
+my_Func_12 <- function(a = 1, b = 2){
+  c(a, b)
+}
+
+my_Func_12(3)
+my_Func_12()
+
+#Default arguments with logicals
+my.logical.function <- function(a = 2, ind = TRUE){
+  if(ind == TRUE){
+    print(a*2)
+  }
+  if(ind == FALSE){
+    print(a*4)}
+}
+
+my.logical.function(a = 4)
+my.logical.function(a = 4, ind = FALSE)
+
+#playing around with missing()
+my.missing.fun <- function(arg1 = 2){
+  missing(arg1)
+}
+
+my.missing.fun()
+
+my.missing.fun <- function(arg1){
+  j <- 0
+  for(i in 1:10000000000){
+    j <- i + j 
+  }
+  print(j + arg1)
+  #missing(arg1)
+}
+
+
+my.fun <- function(x){
+  print(x+3)
+}
+
+my.fun.ls <- function(a = ls()){
+  z <- 10
+  a
+}
+
+my.fun.ls <- function(a = ls(), g = 2){
+  z <- 10
+  a
+}
+
+
+my.fun.return <- function(a){
+  for(i in 1:100){
+    if(a < i){
+      return(i)
+    }
+  }
+}
+
+a <- 50
+my.fun.return(a)
+
+
+##Debugging
+MyFunc_21 <- function(arg_01) MyFunc_22(arg_01)
+MyFunc_22 <- function(arg_02) MyFunc_23(arg_02)
+MyFunc_23 <- function(arg_03) MyFunc_24(arg_03)
+MyFunc_24 <- function(arg_04) "MyString" + arg_04
+MyFunc_21(99)
+
+#Condition Handling
+show_condition <- function(code){
+  tryCatch(code,
+           error = function(x) y <<- x)
+}
+
+show_condition(stop("!"))
+
