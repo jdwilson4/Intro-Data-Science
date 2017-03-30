@@ -207,3 +207,4 @@ show_condition <- function(code){
 
 show_condition(stop("!"))
 
+stopifnot(length(unique(nchar(myvec))) != 1, "Error")
