@@ -64,8 +64,10 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 ### Final Project
 | Description | Due Date |
 |:---: | :---  |
-|[Final Project Description](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Final_Project.pdf) | Tuesday, 5/9 |
 |[Project Signup](https://docs.google.com/spreadsheets/d/1pIAeZ1W5OENRyHbpfZgxKFzmGOtRNT2XkPkCQpjhzHI/edit?usp=sharing) | Thursday, 4/6 |
+
+|[Final Project Description](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Final_Project.pdf) | Tuesday, 5/9 |
+
 
 ### Important Dates
 
