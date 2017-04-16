@@ -50,7 +50,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 | 8   | [Functional Programming](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%208%20Functional%20Programming.pdf)| [CA 9](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment9.pdf)| Thursday, 3/30| 
 | -   |  -  |  [CA 10](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment10.pdf) |Tuesday, 4/4|
 | 9  | [Strings](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%209%20Strings.pdf) |[CA 11](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment11.pdf) | Thursday, 4/13 |
-| 10 | Wrangling Data | | |
+| 10 | [Wrangling Data](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2010%20Wrangling%20Data.pdf) | | |
 
 
 ### Case Studies
