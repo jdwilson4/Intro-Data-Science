@@ -51,7 +51,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 | -   |  -  |  [CA 10](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment10.pdf) |Tuesday, 4/4|
 | 9  | [Strings](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%209%20Strings.pdf) |[CA 11](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment11.pdf) | Thursday, 4/13 |
 | 10 | [Wrangling Data](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2010%20Wrangling%20Data.pdf) | | |
-| 11 | [Intro to Statistical Modeling in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2010%20Wrangling%20Data.pdf) | | | 
+| 11 | [Intro to Statistical Modeling in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2011%20Intro%20to%20Statistical%20Modeling.pdf) | | | 
 
 
 ### Case Studies
@@ -59,7 +59,6 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 |:---: | :---  | :---:  |
 |[I: Beer Review Analysis](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/Beer_Analysis.pdf) | [beerdata.RData](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/beer.data.RData) | Thursday, 2/16| 
 |[II: March Madness College Basketball](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%202/March_Madness.pdf)| [March_Madness.RData](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Data/March_Madness.RData)| Thursday, 3/2|
-|III: NC Traffic Stop Data | <---[Officer_Traffic_Stops.csv](https://raw.githubusercontent.com/jdwilson4/Intro-Data-Science-2017/master/Data/Officer_Traffic_Stops.csv)| | --->
 
 
 ### Final Project
