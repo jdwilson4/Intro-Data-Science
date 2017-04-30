@@ -2,7 +2,9 @@
 title: "Model_Building_Examples"
 author: "James D. Wilson"
 date: "April 29, 2017"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ##Case Study I: Why are low-quality diamonds more expensive? Linear Models##
