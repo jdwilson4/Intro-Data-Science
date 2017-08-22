@@ -47,9 +47,9 @@ Overall, this course will be split into two main parts: (1) learning the basics 
   | [Data Structures II - Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | | [HW 5](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment5.pdf)| |
   | [Input and Output](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%206%20Input%20and%20Output.pdf) | | [HW 6](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment6.pdf) | |
  | [Plotting in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | [HW 7](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment7.pdf)| |
-  |  -  | | [HW 8](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment8.pdf) | Tuesday, 3/7 |
+  |  -  | | [HW 8](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment8.pdf) |  |
  | [Functional Programming](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%208%20Functional%20Programming.pdf)| | [HW 9](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment9.pdf)| | 
-| -   |  -  |  | [HW 10](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment10.pdf) ||
+  |  -  |  | [HW 10](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment10.pdf) ||
  | [Strings](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%209%20Strings.pdf) | | [HW 11](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment11.pdf) | |
  | [Wrangling Data](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2010%20Wrangling%20Data.pdf) | | | |
 | [Intro to Statistical Modeling in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2011%20Intro%20to%20Statistical%20Modeling.pdf) | | | | 
