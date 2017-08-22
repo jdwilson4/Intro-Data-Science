@@ -4,7 +4,7 @@
 
 **Email**: jdwilson4@usfca.edu
 
-**Class Time**: TR, 9:55 - 11:40 AM in Harney 340
+**Class Time**: TR, 9:55 - 11:40 AM in Harney 430
 
 **Office Hours**: TBD in Harney 103B
 
