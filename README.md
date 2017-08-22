@@ -69,16 +69,16 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 
  | Topic | Reading | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  |
- | [Plotting in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | [HW 7](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment7.pdf)| |
-  |  -  | | [HW 8](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment8.pdf) |  |
+ | [Plotting in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | [HW 8](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment7.pdf)| |
+  |  -  | | [HW 9](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment8.pdf) |  |
  
  
  **Programming**
  
  | Topic | Reading | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  |
- | [Functional Programming](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%208%20Functional%20Programming.pdf)| | [HW 9](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment9.pdf)| | 
-  |  -  |  | [HW 10](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment10.pdf) ||
+ | [Functional Programming](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%208%20Functional%20Programming.pdf)| | [HW 10](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment9.pdf)| | 
+  |  -  |  | [HW 11](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment10.pdf) ||
  
  
  **Statistical Modeling in R**
@@ -97,7 +97,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 
 ### Final Project
 | Description | Due Date |
-|:---: | :---  |
+|:--- | :---  |
 |[Project Signup] | |
 |[Final Project Description](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Final_Project.pdf) | |
 
