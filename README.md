@@ -38,21 +38,21 @@ The focus of this course will be to provide you with the basic techniques availa
 
 Overall, this course will be split into two main parts: (1) learning the basics of how to code in R and (2) performing data analysis on real case studies and examples using data science techniques in R.
 
-| Lecture | Topic | Reading | Assignment | Due Date |
-|:---: | :---  | :---:  | :---:  | :---:  |
-| 1    | [Introduction - History of Data Science](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) | | [HW 1](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment1.pdf) | |
-| 2    | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20R%20and%20RStudio.pdf)| | [HW 2](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment2.pdf) | |
-| 3    | [R Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   | | [HW 3](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment3.pdf)| |
-| 4    | [Data Structures I - Vectors, Matrices, and Arrays](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) | | [HW 4](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment4.pdf)| |
-| 5    | [Data Structures II - Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | | [HW 5](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment5.pdf)| |
-| 6    | [Input and Output](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%206%20Input%20and%20Output.pdf) | | [HW 6](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment6.pdf) | |
-| 7   | [Plotting in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | [HW 7](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment7.pdf)| |
-| -   |  -  | | [HW 8](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment8.pdf) | Tuesday, 3/7 |
-| 8   | [Functional Programming](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%208%20Functional%20Programming.pdf)| | [HW 9](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment9.pdf)| | 
+| Topic | Reading | Assignment | Due Date |
+ | :---  | :---:  | :---:  | :---:  |
+ | [Introduction - History of Data Science](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) | | [HW 1](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment1.pdf) | |
+ | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20R%20and%20RStudio.pdf)| | [HW 2](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment2.pdf) | |
+ | [R Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   | | [HW 3](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment3.pdf)| |
+  | [Data Structures I - Vectors, Matrices, and Arrays](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) | | [HW 4](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment4.pdf)| |
+  | [Data Structures II - Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | | [HW 5](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment5.pdf)| |
+  | [Input and Output](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%206%20Input%20and%20Output.pdf) | | [HW 6](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment6.pdf) | |
+ | [Plotting in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | [HW 7](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment7.pdf)| |
+  |  -  | | [HW 8](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment8.pdf) | Tuesday, 3/7 |
+ | [Functional Programming](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%208%20Functional%20Programming.pdf)| | [HW 9](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment9.pdf)| | 
 | -   |  -  |  | [HW 10](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment10.pdf) ||
-| 9  | [Strings](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%209%20Strings.pdf) | | [HW 11](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment11.pdf) | |
-| 10 | [Wrangling Data](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2010%20Wrangling%20Data.pdf) | | | |
-| 11 | [Intro to Statistical Modeling in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2011%20Intro%20to%20Statistical%20Modeling.pdf) | | | | 
+ | [Strings](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%209%20Strings.pdf) | | [HW 11](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment11.pdf) | |
+ | [Wrangling Data](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2010%20Wrangling%20Data.pdf) | | | |
+| [Intro to Statistical Modeling in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2011%20Intro%20to%20Statistical%20Modeling.pdf) | | | | 
 
 
 ### Case Studies
