@@ -6,7 +6,7 @@
 
 **Class Time**: TR, 9:55 - 11:40 AM in Harney 430
 
-**Office Hours**: TBD in Harney 103B
+**Office Hours**: TBD in Harney 107B
 
 **Book**: [R for Data Science](http://r4ds.had.co.nz/index.html) by Hadley Wickham and Garret Grolemund
 
@@ -44,7 +44,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 | Topic | Reading | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  |
  | [Introduction - History of Data Science](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%201%20Introduction.pdf) | [Ch. 1 What is Data Science?](https://www.safaribooksonline.com/library/view/doing-data-science/9781449363871/ch01.html)| [HW 1](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment1.pdf) | Thursday, 8/24|
- | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20R%20and%20RStudio.pdf)| | [HW 2](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment2.pdf) | |
+ | [R and RStudio](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%202%20R%20and%20RStudio.pdf)| | [HW 2](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment2.pdf) | Tuesday, 8/29|
  | [R Packages and RMarkdown](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%203%20R%20Markdown.pdf)   | | [HW 3](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment3.pdf)| |
   
   
