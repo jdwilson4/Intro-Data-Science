@@ -6,7 +6,7 @@
 
 **Class Time**: TR, 9:55 - 11:40 AM in Harney 430
 
-**Office Hours**: TBD in Harney 107B
+**Office Hours**: TR, 12:00 - 12:30 PM in Harney 107B
 
 **Book**: [R for Data Science](http://r4ds.had.co.nz/index.html) by Hadley Wickham and Garret Grolemund
 
