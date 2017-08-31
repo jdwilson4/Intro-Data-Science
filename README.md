@@ -53,8 +53,10 @@ Overall, this course will be split into two main parts: (1) learning the basics 
   | Topic | Reading | Assignment | Due Date |
   | :---  | :---:  | :---:  | :---:  |
   | [Vectors, Matrices, and Arrays](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) | | [HW 4](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment4.pdf)| |
-  | [Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | | [HW 5](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment5.pdf)| |
-  | [Strings](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%209%20Strings.pdf) | | [HW 6](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment11.pdf) | |
+  | [Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | [Ch. 20 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| [HW 5](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment5.pdf)| |
+  | [Strings with RegEx](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%209%20Strings.pdf) | | [HW 6](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment11.pdf) | |
+  | [Strings with stringr] | [Ch. 14 in R for Data Science](http://r4ds.had.co.nz/strings.html) | | |
+  | [Factors] | [Ch. 15 in R for Data Science](http://r4ds.had.co.nz/factors.html)| | |
   
   
   **Data Wrangling**
