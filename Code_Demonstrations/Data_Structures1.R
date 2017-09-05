@@ -116,6 +116,9 @@ vec1.sum <- sum(vec.1)
 #average every value in a single vector
 vec1.mean <- mean(vec.1)
 
+#standard deviation of a vector
+vec1.sd <- sd(vec.1)
+
 #extremes of vector
 vec1.min <- min(vec.1) #the minimum value
 vec1.min.indx <- which.min(vec.1) #the index of the minimum value
@@ -136,3 +139,7 @@ sum(vec.3)
 #mean of vector ignoring NA's
 mean(vec.3, na.rm = TRUE) #note - this will completely ignore
 #NA from any calculation
+
+#if you instead want to treat NA's as zero (for calculating a 
+#mean)
+sum(vec.3, na.rm = TRUE) / length(vec.3)
