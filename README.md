@@ -93,8 +93,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 ### Case Studies
 | Case Study | Data | Date |
 |:--- | :---  | :---:  |
-|[CS 1: Beer Review Analysis](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/Beer_Analysis.pdf) | [beerdata.RData](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/beer.data.RData) | | 
-|[CS 2: March Madness College Basketball](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%202/March_Madness.pdf)| [March_Madness.RData](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Data/March_Madness.RData)| |
+|[CS 1: Beer Review Analysis](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/Beer_Analysis.pdf) | [beerdata.RData](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/beer.data.RData) | September 12th, 2017| 
 
 
 ### Final Project
