@@ -38,7 +38,7 @@ c) What style of beer has the lowest alcohol content?
 
 6) Of beers with ABV less than 5%, what is the average, maximum, and minimum rating? Of beers with ABV higher than 5%, what is the average, maximum, and minimum rating? Based on your findings, do you conclude that beers with higher alcohol content are rated higher? 
 
-7) Identify which beers are a sort of "imperial" style. This is often used to describe a style of beer. Based on features that are common to the "imperial" beers, what would you say this descriptor suggests about a beer? (*Hint*: the code `x %in% y` will check whether or not `x` is contained in `y` and will return a logical vector for each entry. Consider using this for the text "imperial")
+7) Identify which beers are a sort of "Imperial" style. This is often used to describe a style of beer. Based on features that are common to the "Imperial" beers, what would you say this descriptor suggests about a beer? (*Hint*: the code `grep("Imperial", x)` will search the vector `x` for all instances of "Imperial". We will discuss this more in the next few classes.)
 
 8) [Open-ended] Devise a method to measure similarity between beers from this study. Then separate these beers into at least 5 collections of "similar" beers. Discuss what you find. You should play around with this to see if you find any patterns. This is similar to the problem of clustering in machine learning.
 
