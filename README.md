@@ -57,8 +57,8 @@ Overall, this course will be split into two main parts: (1) learning the basics 
   | Topic | Reading | Assignment | Due Date |
   | :---  | :---:  | :---:  | :---:  |
   | [Vectors, Matrices, and Arrays](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) | | [HW 4](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Assignment4.pdf)| Tuesday, 9/12|
-  | [Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | [Ch. 20 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| [HW 5](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Assignments/Assignment_Tibbles.pdf)| Tuesday, 9/26 |
-  | [Tibbles](http://r4ds.had.co.nz/tibbles.html)| [Ch. 10 in R for Data Science](http://r4ds.had.co.nz/tibbles.html)| |
+  | [Lists and Data Frames](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | [Ch. 20 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| |  |
+  | [Tibbles](http://r4ds.had.co.nz/tibbles.html)| [Ch. 10 in R for Data Science](http://r4ds.had.co.nz/tibbles.html)| | [HW 5](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Assignments/Assignment_Tibbles.pdf) | Tuesday, 9/26 |
   | [String Analysis](http://r4ds.had.co.nz/strings.html)|[Ch. 14 in R for Data Science](http://r4ds.had.co.nz/strings.html) | | |
   | [Factors](http://r4ds.had.co.nz/factors.html) | [Ch. 15 in R for Data Science](http://r4ds.had.co.nz/factors.html)| | |
   
