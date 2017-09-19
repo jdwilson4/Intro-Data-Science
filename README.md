@@ -34,7 +34,7 @@ The focus of this course will be to provide you with the basic techniques availa
 - **Final Project** (20%): The final project will be a computational case study that brings together the techniques learned throughout the semester. The description for this project will be provided towards the mid point of the semester.
 - **Extra Credit** (+5%): Create a *well-organized* database of *all* R functions that you use throughout the semester. These include those mentioned in lectures, those introduced in homework, etc. Along with each function, give a brief description that details the use of the function. Also, organize these functions into categories according to their use.
 
-###Data Science Links and News
+### Data Science Links and News
 
 - **Undergraduate Research in Statistics and Data Science**: [Article from Amstat News](http://magazine.amstat.org/blog/2017/09/01/undergraduateexpectations/)
 
