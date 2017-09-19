@@ -114,3 +114,10 @@ df.dataframe <- data.frame(
 
 df.dataframe$do
 df.dataframe$d
+
+
+##plotting 2 variables using a scatter plot
+
+head(data1)
+dev.new()
+plot(x = data1$Sepal.Length, y = data1$Sepal.Width)
