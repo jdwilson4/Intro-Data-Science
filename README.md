@@ -96,7 +96,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 | Case Study | Data | Date |
 |:--- | :---  | :---:  |
 |[CS 1: Beer Review Analysis](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/Beer_Analysis.pdf) | [beerdata.RData](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/beer.data.RData) | September 12th, 2017| 
-|[CS 2: Text Mining] | | September 28th, 2017|
+|[CS 2: Text Mining](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Case%20Study%202/CaseStudy2.pdf) | [[tweets.csv]](https://raw.githubusercontent.com/jdwilson4/Intro-Data-Science/master/Data/tweets.csv); [[stateoftheunion1790-2012.txt]](https://raw.githubusercontent.com/jdwilson4/Intro-Data-Science/master/Data/stateoftheunion1790-2012.txt)| September 28th, 2017|
 
 
 ### Final Project
