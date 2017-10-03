@@ -162,7 +162,15 @@ str_replace(x, "[aeiou]", "-") #note - the first regexp is the thing to
 
 #> [1] "-pple"  "p-ar"   "b-nana"
 
+
+
 #replace all instances, use str_replace_all()
 str_replace_all(x, "[aeiou]", "-")
 #> [1] "-ppl-"  "p--r"   "b-n-n-"
+
+#Splitting strings
+
+y <- str_split(sentences[1], " ") #splitting the sentence according to
+#spaces
+
 
