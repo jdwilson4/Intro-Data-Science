@@ -83,8 +83,9 @@ Overall, this course will be split into two main parts: (1) learning the basics 
  
  | Topic | Reading | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  |
- | [Functional Programming](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%208%20Functional%20Programming.pdf)| | | | 
- 
+ | [Control Flow](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Lectures/Functional%20Programming%20I.pdf)| | | | 
+ | [Writing Functions](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Lectures/Functional%20Programming%20II.pdf)| | | | 
+ | [Functionals](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Lectures/Functional%20Programming%20III.pdf)| | | | 
  
  **Statistical Modeling in R**
  
