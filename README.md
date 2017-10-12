@@ -61,22 +61,17 @@ Overall, this course will be split into two main parts: (1) learning the basics 
   | [Tibbles](http://r4ds.had.co.nz/tibbles.html)| [Ch. 10 in R for Data Science](http://r4ds.had.co.nz/tibbles.html)| [HW 5](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Assignments/Assignment_Tibbles.pdf) | Tuesday, 9/26 | [Tibbles](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/tibbles.R) |
   | [String Analysis](http://r4ds.had.co.nz/strings.html)|[Ch. 14 in R for Data Science](http://r4ds.had.co.nz/strings.html) | [HW 6](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Assignments/Assignment_Strings.pdf)| Thursday, 9/28| [String Analysis I](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Strings1.R)|
    | [String Analysis 2](http://r4ds.had.co.nz/strings.html)|[Ch. 14 in R for Data Science](http://r4ds.had.co.nz/strings.html) | [HW 7](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Assignments/Assignment_Strings2.pdf)| Thursday, 10/5| [String Analysis II](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Strings2.R) |
-  | [Factors](http://r4ds.had.co.nz/factors.html) | [Ch. 15 in R for Data Science](http://r4ds.had.co.nz/factors.html)| | |
+  | [Factors](http://r4ds.had.co.nz/factors.html) | [Ch. 15 in R for Data Science](http://r4ds.had.co.nz/factors.html)| | [Factors]((https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Factors.R)) |
   
   
-  **Data Wrangling**
+  **Data Wrangling and Plotting**
   
    | Topic | Reading | Assignment | Due Date | In Class Code |
    | :---  | :---:  | :---:  | :---:  | :---: |
-   | [Input and Output](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%206%20Input%20and%20Output.pdf) | | | |
+   | [Input and Output](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%206%20Input%20and%20Output.pdf) | | | [Input and Output]((https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Input_Output.R)) |
+   | [Plotting in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | | [Plotting 1](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Plotting1.R)|
    | [Wrangling Data](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2010%20Wrangling%20Data.pdf) | | | |
    
-   
-  **Plotting in R**
-
- | Topic | Reading | Assignment | Due Date | In Class Code |
- | :---  | :---:  | :---:  | :---:  | :---: |
- | [Plotting in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | | |
  
  
  **Programming**
