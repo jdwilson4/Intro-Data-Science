@@ -69,7 +69,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
    | Topic | Reading | Assignment | Due Date | In Class Code |
    | :---  | :---:  | :---:  | :---:  | :---: |
    | [Input and Output](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%206%20Input%20and%20Output.pdf) | | | | [Input and Output](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Input_Output.R) |
-   | [Plotting in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | | | [Plotting 1](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Plotting1.R)|
+   | [Plotting in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | [HW 8](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Assignments/Assignment_Visualization.pdf) | Friday, 10/27| [Plotting 1](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Plotting1.R)|
    | [Wrangling Data](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2010%20Wrangling%20Data.pdf) | | | |
    
  
