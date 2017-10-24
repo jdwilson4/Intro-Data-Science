@@ -100,7 +100,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 | Description | Due Date |
 |:--- | :---  |
 |[Project Signup](https://docs.google.com/spreadsheets/d/1pIAeZ1W5OENRyHbpfZgxKFzmGOtRNT2XkPkCQpjhzHI/edit?usp=sharing) | October 31st at 9:00 AM|
-|[Final Project Description](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Final_Project_Fall_2017.pdf) | December 4th at 9:00 AM|
+|[Final Project Description](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Assignments/Final_Project_Fall_2017.pdf) | November 30th at 9:00 AM|
 
 
 ### Important Dates
