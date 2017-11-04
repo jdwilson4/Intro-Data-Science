@@ -78,9 +78,9 @@ Overall, this course will be split into two main parts: (1) learning the basics 
  
  | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | [Control Flow](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Lectures/Functional%20Programming%20I.pdf)| | | | 
- | [Writing Functions](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Lectures/Functional%20Programming%20II.pdf)| | | | 
- | [Functionals](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Lectures/Functional%20Programming%20III.pdf)| | | | 
+ | [Control Flow](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Lectures/Functional%20Programming%20I.pdf)|[Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html) | | | [Functions 1](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Functions1.R)|
+ | [Writing Functions](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Lectures/Functional%20Programming%20II.pdf)| [Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | | [Functions 2](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Functions2.R)|
+ | [Functionals](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Lectures/Functional%20Programming%20III.pdf)| [Ch. 18 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | | 
  
  **Statistical Modeling in R**
  

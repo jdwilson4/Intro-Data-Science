@@ -90,10 +90,61 @@ x <- 0
 x <- -2
 x <- 2
 x <- "a"
+
 if(x > 0){
   print("x is positive")
 }else if(x < 0){
   print("x is negative")
 }else{
   print("x is zero")
+}
+
+#trying the above on a vector will toss a warning
+x <- c(-1, 1)
+
+if(x > 0){
+  print("x is positive")
+}else if(x < 0){
+  print("x is negative")
+}else{
+  print("x is zero")
+}
+
+#vectorized if() else with ifelse()
+x <- c(-1, 1)
+ifelse(x > 0, "x is positive", "x is negative")
+#first argument is the condition, the second is the expression if condition is TRUE
+#third argument is the expression if condition is FALSE
+x <- c(-1, 1, 0)
+ifelse(x > 0, "x is positive", "x is negative")
+
+#note the above calls 0 "negative" which is not cool.
+#to call it "x is zero" we can combine another ifelse() statement
+#inside of this original one
+x <- c(-1, 1, 0)
+ifelse(x > 0, "x is positive", 
+       ifelse(x < 0, "x is negative", "x is zero"))
+
+
+#the switch statement
+grades <- c("A", "D", "F")
+for(i in grades){
+  print(switch(i,
+          A = "Well Done!",
+          B = "Alright",
+          C = "C's get degrees",
+          D = "Meh",
+          F = "Uh-oh")
+  )
+}
+
+#update grades according to the above switch
+grades2 <- rep(0, length(grades))
+for(i in 1:length(grades)){
+  grades2[i] <- switch(grades[i],
+                    A = "Well Done!",
+                    B = "Alright",
+                    C = "C's get degrees",
+                    D = "Meh",
+                    F = "Uh-oh")
 }
