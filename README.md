@@ -86,7 +86,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
  
  | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | [Intro to Statistical Modeling in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2011%20Intro%20to%20Statistical%20Modeling.pdf) | | | | 
+ | [Intro to Statistical Modeling in R](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Lectures/Lecture%2011%20Intro%20to%20Statistical%20Modeling.pdf) | [Ch. 23 and 24 in R for Data Science](http://r4ds.had.co.nz) | | | 
 
 
 ### Case Studies
@@ -94,7 +94,7 @@ Overall, this course will be split into two main parts: (1) learning the basics 
 |:--- | :---  | :---:  |
 |[CS 1: Beer Review Analysis](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/Beer_Analysis.pdf) | [beerdata.RData](https://github.com/jdwilson4/Intro-Data-Science-2017/blob/master/Code_Demonstrations/Case%20Study%201/beer.data.RData) | September 12th, 2017| 
 |[CS 2: Text Mining](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Case%20Study%202/CaseStudy2.pdf) | [[tweets.csv]](https://raw.githubusercontent.com/jdwilson4/Intro-Data-Science/master/Data/tweets.csv); [[stateoftheunion1790-2012.txt]](https://raw.githubusercontent.com/jdwilson4/Intro-Data-Science/master/Data/stateoftheunion1790-2012.txt)| September 28th, 2017|
-|[CS 3: Building the Game of Blackjack](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Case%20Study%202/CaseStudy2.pdf) | | November 8th, 2017|
+|[CS 3: Building the Game of Blackjack](https://github.com/jdwilson4/Intro-Data-Science/blob/master/Code_Demonstrations/Case%20Study%203/CaseStudy3.pdf)| | November 8th, 2017|
 
 ### Final Project
 | Description | Due Date |
